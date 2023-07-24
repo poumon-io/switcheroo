@@ -3,7 +3,7 @@ Switcheroo est un plugin pour [Forumactif](https://www.forumactif.com/) qui perm
 - [Read this doc in english](README.en.md) 
 - [**Notes de version**](CHANGELOG.md)
 - N'hésitez pas à passer sur [le forum de support](https://blankthemerpg.forumactif.com/t38-switcheroo-support) en cas de besoin !
-- #2 issue link
+- GH-2 issue link
 
 ## Avant l'installation : les prérequis
 
