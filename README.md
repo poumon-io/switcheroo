@@ -1,5 +1,9 @@
 Switcheroo est un plugin pour [Forumactif](https://www.forumactif.com/) qui permet de rassembler plusieurs comptes dans une barre de navigation rapide pour changer de compte d'un clic. L'interface se veut intuitive, et une fois les prérequis remplis, l'installation et la personnalisation vous permettront d'adapter Switcheroo aux couleurs de votre design.
 
+- [Read this doc in english](README.en.md) 
+- [**Notes de version**](CHANGELOG.md)
+- N'hésitez pas à passer sur [le forum de support](https://blankthemerpg.forumactif.com/t38-switcheroo-support) en cas de besoin !
+
 ## Avant l'installation : les prérequis
 
 Switcheroo nécessite quelques modifications de votre part avant d'être installé. Cette étape est très importante puisque le plugin ne fonctionnera pas sans ces ajustements.
