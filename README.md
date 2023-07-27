@@ -84,7 +84,7 @@ Vous n'avez pas besoin de réécrire chaque ligne, n'indiquez que les valeurs qu
 
 Consultez les fichiers `init_xxx.js` dans le dossier [demo](demo) pour voir des exemples d'initialisation du plugin qui puissent répondre à vos besoins.
 
-### Ajouter des boutons avec `customButtons` 
+### Ajouter des boutons customisés
 L'option `customButtons`, si elle est utilisée, doit être au format suivant :
 ```js
 customButtons: [{/* bouton 1 */}, { /* bouton 2 */}, {/*bouton 3 */}],
